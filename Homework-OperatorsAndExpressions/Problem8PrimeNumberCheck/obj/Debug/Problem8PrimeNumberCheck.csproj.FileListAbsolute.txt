@@ -1,1 +1,0 @@
-C:\Users\Nevena\Dropbox\education\ChapterI_CSharpI_Homework\Homework-OperatorsAndExpressions\Problem8PrimeNumberCheck\bin\Debug\Problem8PrimeNumberCheck.exe.config

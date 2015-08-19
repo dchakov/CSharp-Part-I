@@ -1,1 +1,0 @@
-C:\Users\Nevena\Dropbox\education\ChapterI_CSharpI_Homework\Homework-OperatorsAndExpressions\Problem10PointInsideACircleAndOutsideOfARectangle\bin\Debug\Problem10PointInsideACircleAndOutsideOfARectangle.exe.config
