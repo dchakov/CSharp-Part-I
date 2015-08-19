@@ -1,4 +1,0 @@
-C:\Users\Nevena\Dropbox\education\Homework-Intro-Programming\Problem10_ReformatCSharpCode\bin\Release\Problem10_ReformatCSharpCode.exe
-C:\Users\Nevena\Dropbox\education\Homework-Intro-Programming\Problem10_ReformatCSharpCode\bin\Release\Problem10_ReformatCSharpCode.pdb
-C:\Users\Nevena\Dropbox\education\Homework-Intro-Programming\Problem10_ReformatCSharpCode\obj\x86\Release\Problem10_ReformatCSharpCode.exe
-C:\Users\Nevena\Dropbox\education\Homework-Intro-Programming\Problem10_ReformatCSharpCode\obj\x86\Release\Problem10_ReformatCSharpCode.pdb
