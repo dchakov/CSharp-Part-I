@@ -1,0 +1,3 @@
+C# is a strong Object Oriented programming language that is mostly built on the .NET framework. C# is a programming language developed by Microsoft for .NET
+
+.NET is an application development framework build by Microsoft.It contains numerous libraries containing a range of functionality.NET isn't just a library, but also a runtime for executing applications. We can say that .NET Framework is a large collections of Microsoft libraries that you can use from your C# or VB.NET code.

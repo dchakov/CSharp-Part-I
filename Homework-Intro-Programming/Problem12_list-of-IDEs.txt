@@ -1,0 +1,16 @@
+1.Borland C++ Builder
+Borland C++ Builder is an advanced software development system from Borland. It brings together a powerful Integrated Development Environment, the component-oriented philosophy of Borland's award-winning Delphi language, and the industry standard object-orientation of C++. 
+
+2.Dev-C++
+Dev-C++ is a free integrated development environment (IDE) for programming in C and C++. MinGW, a free compiler, is bundled with it. The IDE is written in Delphi.Dev-C++ runs exclusively on Microsoft Windows.One additional aspect of Dev-C++ is its use of DevPaks, packaged extensions on the programming environment with additional libraries, templates, and utilities.Dev-C++ is generally considered a Windows-only program, but there are attempts to create a Linux version: header files and path delimiters are switchable between platforms.
+
+3.Microsoft Visual Studio
+Microsoft Visual Studio is an integrated development environment (IDE) from Microsoft. It is used to develop computer programs for Microsoft Windows, as well as web sites, web applications and web services. Visual Studio uses Microsoft software development platforms such as Windows API, Windows Forms, Windows Presentation Foundation, Windows Store and Microsoft Silverlight. It can produce both native code and managed code.
+Visual Studio includes a code editor supporting IntelliSense as well as code refactoring. The integrated debugger works both as a source-level debugger and a machine-level debugger. Other built-in tools include a forms designer for building GUI applications, web designer, class designer, and database schema designer. It accepts plug-ins that enhance the functionality at almost every level—including adding support for source-control systems (like Subversion) and adding new toolsets like editors and visual designers for domain-specific languages or toolsets for other aspects of the software development lifecycle (like the Team Foundation Server client: Team Explorer).
+Visual Studio supports different programming languages and allows the code editor and debugger to support (to varying degrees) nearly any programming language, provided a language-specific service exists. Built-in languages include C,[6] C++ and C++/CLI (via Visual C++), VB.NET (via Visual Basic .NET), C# (via Visual C#), and F# (as of Visual Studio 2010[7]). Support for other languages such as M, Python, and Ruby among others is available via language services installed separately. It also supports XML/XSLT, HTML/XHTML, JavaScript and CSS.
+
+4.CodeLite
+CodeLite is a free, open source, cross platform IDE for the C/C++ programming languages using the wxWidgets toolkit. To comply with CodeLite's open source spirit, the program itself is compiled and debugged using only free tools (MinGW and GDB) for Mac OS X, Windows, Linux and FreeBSD, though CodeLite can execute any third-party compiler or tool that has a command-line interface.
+
+5.Android Studio
+Android Studio is an integrated development environment (IDE) for developing on the Android platform. It was announced on May 16, 2013 at the Google I/O conference by Google's Product Manager, Ellie Powers. Android Studio is freely available under the Apache License 2.0. Android Studio is designed specifically for Android development. It is available for download on Windows, Mac OS X and Linux.[6][7]
