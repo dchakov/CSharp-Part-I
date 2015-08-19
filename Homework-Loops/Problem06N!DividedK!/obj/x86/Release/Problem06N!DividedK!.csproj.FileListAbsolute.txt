@@ -1,5 +1,0 @@
-D:\Dropbox\education\Homework-Loops\Problem06N!DividedK!\bin\Release\Problem06N!DividedK!.exe
-D:\Dropbox\education\Homework-Loops\Problem06N!DividedK!\bin\Release\Problem06N!DividedK!.pdb
-D:\Dropbox\education\Homework-Loops\Problem06N!DividedK!\obj\x86\Release\ResolveAssemblyReference.cache
-D:\Dropbox\education\Homework-Loops\Problem06N!DividedK!\obj\x86\Release\Problem06N!DividedK!.exe
-D:\Dropbox\education\Homework-Loops\Problem06N!DividedK!\obj\x86\Release\Problem06N!DividedK!.pdb

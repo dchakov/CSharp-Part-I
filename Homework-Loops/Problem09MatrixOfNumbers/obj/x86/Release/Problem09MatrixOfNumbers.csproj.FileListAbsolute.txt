@@ -1,5 +1,0 @@
-D:\Dropbox\education\Homework-Loops\Problem09MatrixOfNumbers\bin\Release\Problem09MatrixOfNumbers.exe
-D:\Dropbox\education\Homework-Loops\Problem09MatrixOfNumbers\bin\Release\Problem09MatrixOfNumbers.pdb
-D:\Dropbox\education\Homework-Loops\Problem09MatrixOfNumbers\obj\x86\Release\ResolveAssemblyReference.cache
-D:\Dropbox\education\Homework-Loops\Problem09MatrixOfNumbers\obj\x86\Release\Problem09MatrixOfNumbers.exe
-D:\Dropbox\education\Homework-Loops\Problem09MatrixOfNumbers\obj\x86\Release\Problem09MatrixOfNumbers.pdb

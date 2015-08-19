@@ -1,5 +1,0 @@
-D:\Dropbox\education\Homework-Loops\Problem10OddAndEvenProduct\bin\Release\Problem10OddAndEvenProduct.exe
-D:\Dropbox\education\Homework-Loops\Problem10OddAndEvenProduct\bin\Release\Problem10OddAndEvenProduct.pdb
-D:\Dropbox\education\Homework-Loops\Problem10OddAndEvenProduct\obj\x86\Release\ResolveAssemblyReference.cache
-D:\Dropbox\education\Homework-Loops\Problem10OddAndEvenProduct\obj\x86\Release\Problem10OddAndEvenProduct.exe
-D:\Dropbox\education\Homework-Loops\Problem10OddAndEvenProduct\obj\x86\Release\Problem10OddAndEvenProduct.pdb

@@ -1,5 +1,0 @@
-D:\Dropbox\education\Homework-Loops\Problem19SpiralMatrix\bin\Release\Problem19SpiralMatrix.exe
-D:\Dropbox\education\Homework-Loops\Problem19SpiralMatrix\bin\Release\Problem19SpiralMatrix.pdb
-D:\Dropbox\education\Homework-Loops\Problem19SpiralMatrix\obj\x86\Release\ResolveAssemblyReference.cache
-D:\Dropbox\education\Homework-Loops\Problem19SpiralMatrix\obj\x86\Release\Problem19SpiralMatrix.exe
-D:\Dropbox\education\Homework-Loops\Problem19SpiralMatrix\obj\x86\Release\Problem19SpiralMatrix.pdb

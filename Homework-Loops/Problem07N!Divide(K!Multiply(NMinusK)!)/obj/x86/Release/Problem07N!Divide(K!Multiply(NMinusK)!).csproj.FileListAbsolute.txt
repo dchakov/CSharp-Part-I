@@ -1,5 +1,0 @@
-D:\Dropbox\education\Homework-Loops\Problem07N!Divide(K!Multiply(NMinusK)!)\bin\Release\Problem07N!Divide(K!Multiply(NMinusK)!).exe
-D:\Dropbox\education\Homework-Loops\Problem07N!Divide(K!Multiply(NMinusK)!)\bin\Release\Problem07N!Divide(K!Multiply(NMinusK)!).pdb
-D:\Dropbox\education\Homework-Loops\Problem07N!Divide(K!Multiply(NMinusK)!)\obj\x86\Release\ResolveAssemblyReference.cache
-D:\Dropbox\education\Homework-Loops\Problem07N!Divide(K!Multiply(NMinusK)!)\obj\x86\Release\Problem07N!Divide(K!Multiply(NMinusK)!).exe
-D:\Dropbox\education\Homework-Loops\Problem07N!Divide(K!Multiply(NMinusK)!)\obj\x86\Release\Problem07N!Divide(K!Multiply(NMinusK)!).pdb
