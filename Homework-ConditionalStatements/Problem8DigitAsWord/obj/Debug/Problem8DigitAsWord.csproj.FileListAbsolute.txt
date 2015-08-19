@@ -1,0 +1,13 @@
+C:\Users\Nevena\Dropbox\education\Homework-ConditionalStatements\Problem8DigitAsWord\bin\Debug\Problem8DigitAsWord.exe.config
+C:\Users\Nevena\Dropbox\education\Homework-ConditionalStatements\Problem8DigitAsWord\bin\Debug\Problem8DigitAsWord.exe
+C:\Users\Nevena\Dropbox\education\Homework-ConditionalStatements\Problem8DigitAsWord\bin\Debug\Problem8DigitAsWord.pdb
+C:\Users\Nevena\Dropbox\education\Homework-ConditionalStatements\Problem8DigitAsWord\obj\Debug\Problem8DigitAsWord.exe
+C:\Users\Nevena\Dropbox\education\Homework-ConditionalStatements\Problem8DigitAsWord\obj\Debug\Problem8DigitAsWord.pdb
+C:\Users\Nevena\Dropbox\education\CSharpI_Homework\Homework-ConditionalStatements\Problem8DigitAsWord\bin\Debug\Problem8DigitAsWord.exe.config
+C:\Users\Nevena\Dropbox\education\CSharpI_Homework\Homework-ConditionalStatements\Problem8DigitAsWord\bin\Debug\Problem8DigitAsWord.exe
+C:\Users\Nevena\Dropbox\education\CSharpI_Homework\Homework-ConditionalStatements\Problem8DigitAsWord\bin\Debug\Problem8DigitAsWord.pdb
+C:\Users\Nevena\Dropbox\education\CSharpI_Homework\Homework-ConditionalStatements\Problem8DigitAsWord\obj\Debug\Problem8DigitAsWord.exe
+C:\Users\Nevena\Dropbox\education\CSharpI_Homework\Homework-ConditionalStatements\Problem8DigitAsWord\obj\Debug\Problem8DigitAsWord.pdb
+C:\Users\Nevena\Dropbox\education\ChapterI_CSharpI_Homework\Homework-ConditionalStatements\Problem8DigitAsWord\bin\Debug\Problem8DigitAsWord.exe.config
+C:\Users\Nevena\Dropbox\education\ChapterI_CSharpI_Homework\Homework-ConditionalStatements\Problem8DigitAsWord\obj\Debug\Problem8DigitAsWord.exe
+C:\Users\Nevena\Dropbox\education\ChapterI_CSharpI_Homework\Homework-ConditionalStatements\Problem8DigitAsWord\obj\Debug\Problem8DigitAsWord.pdb

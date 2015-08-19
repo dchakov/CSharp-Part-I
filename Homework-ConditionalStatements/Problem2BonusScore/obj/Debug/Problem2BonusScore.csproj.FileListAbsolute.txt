@@ -1,0 +1,12 @@
+C:\Users\Nevena\Dropbox\education\Homework-ConditionalStatements\Problem2BonusScore\bin\Debug\Problem2BonusScore.exe.config
+C:\Users\Nevena\Dropbox\education\Homework-ConditionalStatements\Problem2BonusScore\bin\Debug\Problem2BonusScore.exe
+C:\Users\Nevena\Dropbox\education\Homework-ConditionalStatements\Problem2BonusScore\bin\Debug\Problem2BonusScore.pdb
+C:\Users\Nevena\Dropbox\education\Homework-ConditionalStatements\Problem2BonusScore\obj\Debug\Problem2BonusScore.csprojResolveAssemblyReference.cache
+C:\Users\Nevena\Dropbox\education\Homework-ConditionalStatements\Problem2BonusScore\obj\Debug\Problem2BonusScore.exe
+C:\Users\Nevena\Dropbox\education\Homework-ConditionalStatements\Problem2BonusScore\obj\Debug\Problem2BonusScore.pdb
+C:\Users\Nevena\Dropbox\education\CSharpI_Homework\Homework-ConditionalStatements\Problem2BonusScore\bin\Debug\Problem2BonusScore.exe.config
+C:\Users\Nevena\Dropbox\education\CSharpI_Homework\Homework-ConditionalStatements\Problem2BonusScore\bin\Debug\Problem2BonusScore.exe
+C:\Users\Nevena\Dropbox\education\CSharpI_Homework\Homework-ConditionalStatements\Problem2BonusScore\bin\Debug\Problem2BonusScore.pdb
+C:\Users\Nevena\Dropbox\education\CSharpI_Homework\Homework-ConditionalStatements\Problem2BonusScore\obj\Debug\Problem2BonusScore.csprojResolveAssemblyReference.cache
+C:\Users\Nevena\Dropbox\education\CSharpI_Homework\Homework-ConditionalStatements\Problem2BonusScore\obj\Debug\Problem2BonusScore.exe
+C:\Users\Nevena\Dropbox\education\CSharpI_Homework\Homework-ConditionalStatements\Problem2BonusScore\obj\Debug\Problem2BonusScore.pdb

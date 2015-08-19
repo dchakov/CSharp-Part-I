@@ -1,0 +1,8 @@
+C:\Users\Nevena\Dropbox\education\Homework-ConditionalStatements\Problem7Sort3NumbersWithNestedIfs\bin\Debug\Problem7Sort3NumbersWithNestedIfs.exe
+C:\Users\Nevena\Dropbox\education\Homework-ConditionalStatements\Problem7Sort3NumbersWithNestedIfs\bin\Debug\Problem7Sort3NumbersWithNestedIfs.pdb
+C:\Users\Nevena\Dropbox\education\Homework-ConditionalStatements\Problem7Sort3NumbersWithNestedIfs\obj\x86\Debug\Problem7Sort3NumbersWithNestedIfs.exe
+C:\Users\Nevena\Dropbox\education\Homework-ConditionalStatements\Problem7Sort3NumbersWithNestedIfs\obj\x86\Debug\Problem7Sort3NumbersWithNestedIfs.pdb
+C:\Users\Nevena\Dropbox\education\CSharpI_Homework\Homework-ConditionalStatements\Problem7Sort3NumbersWithNestedIfs\bin\Debug\Problem7Sort3NumbersWithNestedIfs.exe
+C:\Users\Nevena\Dropbox\education\CSharpI_Homework\Homework-ConditionalStatements\Problem7Sort3NumbersWithNestedIfs\bin\Debug\Problem7Sort3NumbersWithNestedIfs.pdb
+C:\Users\Nevena\Dropbox\education\CSharpI_Homework\Homework-ConditionalStatements\Problem7Sort3NumbersWithNestedIfs\obj\x86\Debug\Problem7Sort3NumbersWithNestedIfs.exe
+C:\Users\Nevena\Dropbox\education\CSharpI_Homework\Homework-ConditionalStatements\Problem7Sort3NumbersWithNestedIfs\obj\x86\Debug\Problem7Sort3NumbersWithNestedIfs.pdb

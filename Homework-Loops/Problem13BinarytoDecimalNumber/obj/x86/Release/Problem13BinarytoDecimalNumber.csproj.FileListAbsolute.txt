@@ -1,0 +1,5 @@
+D:\Dropbox\education\Homework-Loops\Problem13BinarytoDecimalNumber\bin\Release\Problem13BinarytoDecimalNumber.exe
+D:\Dropbox\education\Homework-Loops\Problem13BinarytoDecimalNumber\bin\Release\Problem13BinarytoDecimalNumber.pdb
+D:\Dropbox\education\Homework-Loops\Problem13BinarytoDecimalNumber\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Dropbox\education\Homework-Loops\Problem13BinarytoDecimalNumber\obj\x86\Release\Problem13BinarytoDecimalNumber.exe
+D:\Dropbox\education\Homework-Loops\Problem13BinarytoDecimalNumber\obj\x86\Release\Problem13BinarytoDecimalNumber.pdb

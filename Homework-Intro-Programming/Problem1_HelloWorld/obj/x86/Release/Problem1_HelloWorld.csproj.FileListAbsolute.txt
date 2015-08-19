@@ -1,0 +1,5 @@
+C:\Users\Nevena\Dropbox\education\Homework-Intro-Programming\Problem1_HelloWorld\bin\Release\Problem1_HelloWorld.exe
+C:\Users\Nevena\Dropbox\education\Homework-Intro-Programming\Problem1_HelloWorld\bin\Release\Problem1_HelloWorld.pdb
+C:\Users\Nevena\Dropbox\education\Homework-Intro-Programming\Problem1_HelloWorld\obj\x86\Release\Problem1_HelloWorld.csprojResolveAssemblyReference.cache
+C:\Users\Nevena\Dropbox\education\Homework-Intro-Programming\Problem1_HelloWorld\obj\x86\Release\Problem1_HelloWorld.exe
+C:\Users\Nevena\Dropbox\education\Homework-Intro-Programming\Problem1_HelloWorld\obj\x86\Release\Problem1_HelloWorld.pdb

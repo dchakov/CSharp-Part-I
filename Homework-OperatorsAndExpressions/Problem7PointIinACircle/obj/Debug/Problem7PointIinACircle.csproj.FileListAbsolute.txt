@@ -1,0 +1,5 @@
+C:\Users\Nevena\Dropbox\education\ChapterI_CSharpI_Homework\Homework-OperatorsAndExpressions\Problem7PointIinACircle\bin\Debug\Problem7PointIinACircle.exe.config
+C:\Users\Nevena\Dropbox\education\ChapterI_CSharpI_Homework\Homework-OperatorsAndExpressions\Problem7PointIinACircle\bin\Debug\Problem7PointIinACircle.exe
+C:\Users\Nevena\Dropbox\education\ChapterI_CSharpI_Homework\Homework-OperatorsAndExpressions\Problem7PointIinACircle\bin\Debug\Problem7PointIinACircle.pdb
+C:\Users\Nevena\Dropbox\education\ChapterI_CSharpI_Homework\Homework-OperatorsAndExpressions\Problem7PointIinACircle\obj\Debug\Problem7PointIinACircle.exe
+C:\Users\Nevena\Dropbox\education\ChapterI_CSharpI_Homework\Homework-OperatorsAndExpressions\Problem7PointIinACircle\obj\Debug\Problem7PointIinACircle.pdb

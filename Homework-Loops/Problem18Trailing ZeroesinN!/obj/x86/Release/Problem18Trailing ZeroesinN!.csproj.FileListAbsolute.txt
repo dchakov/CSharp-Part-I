@@ -1,0 +1,5 @@
+D:\Dropbox\education\Homework-Loops\Problem18Trailing ZeroesinN!\bin\Release\Problem18Trailing ZeroesinN!.exe
+D:\Dropbox\education\Homework-Loops\Problem18Trailing ZeroesinN!\bin\Release\Problem18Trailing ZeroesinN!.pdb
+D:\Dropbox\education\Homework-Loops\Problem18Trailing ZeroesinN!\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Dropbox\education\Homework-Loops\Problem18Trailing ZeroesinN!\obj\x86\Release\Problem18Trailing ZeroesinN!.exe
+D:\Dropbox\education\Homework-Loops\Problem18Trailing ZeroesinN!\obj\x86\Release\Problem18Trailing ZeroesinN!.pdb
